@@ -6,7 +6,8 @@ Todo:
 Flash card save and load    
 RAM version  
   
-  
+I've tried it with standard 128Mbit chips such as [this](https://www.mouser.com/ProductDetail/Winbond/W25Q128JVSIQ-TR?qs=%2Fha2pyFadug2TUVEhbfM5KgZ8P1%252BvsVof3yBZh8KkRNeKbu4RZ%2FjMQexLBohtVeA) but it can address any size chip.  
+
 In this example one button is dedicated to erasing, one for recording and one playing.  The bank they are all address is controlled by the pot. A second sampler is started but unused.  
 The samplers really just play back sections of memory. You can have multiple ones looking at the same part of memory ie the same sample.   
   
