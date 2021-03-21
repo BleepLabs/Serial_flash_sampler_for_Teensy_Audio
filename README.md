@@ -2,7 +2,10 @@
 Sampler with speed and direction control  
 
 This is a buttoned up version of how I did the sampleing on the Delaydelus 2.  
-Todo: Flash card save and load  
+Todo:    
+Flash card save and load    
+RAM version  
+  
   
 In this example one button is dedicated to erasing, one for recording and one playing.  The bank they are all address is controlled by the pot. A second sampler is started but unused.  
 The samplers really just play back sections of memory. You can have multiple ones looking at the same part of memory ie the same sample.   
